@@ -1,0 +1,8 @@
+[
+  {
+    "text1": "Click Button to see alert",
+    "text1_result": "You selected Ok",
+    "text2": "On button click, confirm box will appear",
+    "text3": "On button click, prompt box will appear"
+  }
+]
